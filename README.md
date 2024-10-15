@@ -7,7 +7,7 @@
 
 ### Connect with me :
 <p align="left">
-<a href="www.linkedin.com/in/sai-kiran-yarabarla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saikiran-yarabarla-n-v-n-a-78536b221" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sai-kiran-yarabarla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saikiran-yarabarla-n-v-n-a-78536b221" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/saikiran31110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saikiran31110" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/2000031110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="2000031110" height="30" width="40" /></a>
 </p>
